@@ -8,3 +8,5 @@ This folder contains my beginner Python projects.
 - Email_Slicer
 - Snake_Water_gun_game
 - password_generator
+- To-do_list
+  
